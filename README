@@ -1,0 +1,3 @@
+Just some fooling about with Commodore 64 programming in C using cc65
+
+cl65 -O test.c
